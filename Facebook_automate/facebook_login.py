@@ -32,4 +32,4 @@ def automate_facebook_login(username, password):
 
 if __name__ == "__main__":
     # Replace 'your_username' and 'your_password' with your actual Facebook credentials
-    automate_facebook_login('petkany7@gmail.com', 'Pkn2030**')
+    automate_facebook_login('your_username', 'your_password')
